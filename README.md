@@ -11,6 +11,10 @@ If you want to compile from sources:
 
  - Visual Studio 2017 with classic C++ application support
 
+# Download
+
+Use [this link](https://github.com/RomankoMikhail/WinHotspot/releases)
+
 #Usage
 For command line utility (whc.exe):
 
@@ -87,9 +91,9 @@ Also application return error codes:
 Q: May i use your source code in my projects?
 
 A: Yes, you can. The only drawback - mention me in readme and/or license file
-
+----------
 Q: I can't start wifi network!
 
 A: Try reboot your computer or restart your wlan network card. Also your network card maybe not supported (can't create hosted network)
-
+----------
 
