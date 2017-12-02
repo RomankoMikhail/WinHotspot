@@ -83,10 +83,13 @@ Also application return error codes:
 | -8 |Failed to gather information         | Can't gather information. Card not configured properly
 
 # Little FAQ
+
 Q: May i use your source code in my projects?
+
 A: Yes, you can. The only drawback - mention me in readme and/or license file
 
 Q: I can't start wifi network!
+
 A: Try reboot your computer or restart your wlan network card. Also your network card maybe not supported (can't create hosted network)
 
 
