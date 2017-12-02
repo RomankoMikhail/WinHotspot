@@ -91,9 +91,11 @@ Also application return error codes:
 Q: May i use your source code in my projects?
 
 A: Yes, you can. The only drawback - mention me in readme and/or license file
+
 ----------
 Q: I can't start wifi network!
 
-A: Try reboot your computer or restart your wlan network card. Also your network card maybe not supported (can't create hosted network)
+A: Try reboot your computer or restart your wlan network card. Also your network card maybe not supported (can't create hosted network) 
+
 ----------
 
